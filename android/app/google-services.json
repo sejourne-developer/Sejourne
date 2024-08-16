@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "1019295180323",
+    "project_id": "sejourne-c8bfd",
+    "storage_bucket": "sejourne-c8bfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019295180323:android:77396c2dc9c58d7f3a3396",
+        "android_client_info": {
+          "package_name": "ae.sejourne.sejourne"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019295180323-1ajhmol10aovgf5mdp32a3rac2qbm47e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ae.sejourne.sejourne",
+            "certificate_hash": "ff5568af60217f57623ce6ce814284d38710fdb8"
+          }
+        },
+        {
+          "client_id": "1019295180323-g9glk4be0de4adi9t66tj5g2qef66rdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ae.sejourne.sejourne",
+            "certificate_hash": "9812cf5a7275552f288dc69365c85471cda91bdf"
+          }
+        },
+        {
+          "client_id": "1019295180323-tkl5eo5ma4m290pab3ff5jo6dmc7i39n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ae.sejourne.sejourne",
+            "certificate_hash": "721fb3ddc484e598545e8b106188c4f36cb09d79"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACUBVC2wjGtGsa7g-Y9IVEWBv18GkFJKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019295180323-7rhd4irro01qqsurenn1id6oih42ev9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019295180323-hvleuh5452c6spdqfofurf9i6a6hnkas.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ae.sejourne.sejourne"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019295180323:android:0e34dd3f2a3e44a23a3396",
+        "android_client_info": {
+          "package_name": "com.sejourne.owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019295180323-4epe4ncrbckmisq2i7ctpgom9canrtdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sejourne.owner",
+            "certificate_hash": "ff5568af60217f57623ce6ce814284d38710fdb8"
+          }
+        },
+        {
+          "client_id": "1019295180323-emhp6a9rldmtj9mtbn1d5amctp3lk0sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sejourne.owner",
+            "certificate_hash": "42ecc122137d78d6212b42198ca8e59b891b0e76"
+          }
+        },
+        {
+          "client_id": "1019295180323-vte4949k0l1oabme3qbsemfokk4u0jmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sejourne.owner",
+            "certificate_hash": "b576bc8401d9591c34b7ef04248236ed45580909"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACUBVC2wjGtGsa7g-Y9IVEWBv18GkFJKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019295180323-7rhd4irro01qqsurenn1id6oih42ev9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019295180323-hvleuh5452c6spdqfofurf9i6a6hnkas.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ae.sejourne.sejourne"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019295180323:android:f27e8e65124e1b793a3396",
+        "android_client_info": {
+          "package_name": "com.sejourne.pms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019295180323-67h4tfg4b7a7mj43mvun5uvo51lunu86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sejourne.pms",
+            "certificate_hash": "ef60963b055c0d7255bea1e7a7f3e6dc7139b089"
+          }
+        },
+        {
+          "client_id": "1019295180323-f5j8i3ja0sej41j1841pt836ehc4ivs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sejourne.pms",
+            "certificate_hash": "6762db006b65fd969c4eb73b28cd72c4ab1d9899"
+          }
+        },
+        {
+          "client_id": "1019295180323-kek0g1dblloi8037f9vveor2vf6qv74e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sejourne.pms",
+            "certificate_hash": "ff5568af60217f57623ce6ce814284d38710fdb8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACUBVC2wjGtGsa7g-Y9IVEWBv18GkFJKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019295180323-7rhd4irro01qqsurenn1id6oih42ev9n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019295180323-hvleuh5452c6spdqfofurf9i6a6hnkas.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ae.sejourne.sejourne"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
